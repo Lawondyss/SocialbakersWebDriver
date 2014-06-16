@@ -9,7 +9,7 @@
         "version": "dev-master",
         "dist": {
           "type": "git",
-          "url": "http://github.com/chibimagic/WebDriver-PHP",
+          "url": "http://github.com/chibimagic/WebDriver-PHP"
         },
         "source": {
           "type": "git",
