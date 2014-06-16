@@ -7,6 +7,10 @@
       "package": {
         "name": "chibimagic/webdriver-php",
         "version": "dev-master",
+        "dist": {
+          "type": "git",
+          "url": "http://github.com/chibimagic/WebDriver-PHP",
+        },
         "source": {
           "type": "git",
           "url": "http://github.com/chibimagic/WebDriver-PHP",
