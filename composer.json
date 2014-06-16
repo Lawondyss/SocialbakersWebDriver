@@ -10,11 +10,6 @@
         "dist": {
           "type": "zip",
           "url": "https://github.com/chibimagic/WebDriver-PHP/archive/master.zip"
-        },
-        "source": {
-          "type": "git",
-          "url": "http://github.com/chibimagic/WebDriver-PHP",
-          "reference": "master"
         }
       }
     }
