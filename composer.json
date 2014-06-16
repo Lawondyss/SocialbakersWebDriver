@@ -20,5 +20,6 @@
   },
   "autoload": {
     "files": ["SocialbakersWebDriver.php", "SocialbakersWebElement.php"]
-  }
+  },
+  "minimum-stability": "dev"
 }
