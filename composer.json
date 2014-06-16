@@ -1,0 +1,24 @@
+{
+  "name": "socialbakers/socialbakers-webdriver",
+  "description": "Customized PHP WebDriver from Chibimagic.",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "chibimagic/webdriver-php",
+        "version": "dev-master",
+        "source": {
+          "type": "git",
+          "url": "https://github.com/chibimagic/WebDriver-PHP",
+          "reference": "master"
+        }
+      }
+    }
+  ],
+  "require": {
+    "chibimagic/webdriver-php": "dev-master"
+  },
+  "autoload": {
+    "files": ["SocialbakersWebDriver.php", "SocialbakersWebElement.php"]
+  }
+}
