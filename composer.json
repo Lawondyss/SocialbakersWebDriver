@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "chibimagic/webdriver-php": "14.06.05"
+    "chibimagic/webdriver-php": "*"
   },
   "autoload": {
     "files": ["SocialbakersWebDriver.php", "SocialbakersWebElement.php"]
